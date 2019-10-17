@@ -1,5 +1,7 @@
 {
   "name": "walkside-ionic-react",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }

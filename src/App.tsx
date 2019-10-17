@@ -35,7 +35,7 @@ const appPages: AppPage[] = [
     icon: home
   },
   {
-    title: 'List',
+    title: 'Saved Routes',
     url: '/home/list',
     icon: list
   }
